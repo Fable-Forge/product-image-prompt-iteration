@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Image Prompt Iteration"
+  short_description: "Iterate product renders and three-view prompts."
+  default_prompt: "Turn product image, three-view, or visual prompt iteration requests into a controlled image-generation workflow with stable product identity, scoped prompt changes, visual checks, and reusable final prompts."
